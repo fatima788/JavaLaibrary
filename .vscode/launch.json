@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch dummy",
+            "request": "launch",
+            "mainClass": "dummy",
+            "projectName": "LaibraryJavaProject_ad6c5459"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bill",
+            "request": "launch",
+            "mainClass": "Bill",
+            "projectName": "LaibraryJavaProject_ad6c5459"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book",
+            "request": "launch",
+            "mainClass": "Book",
+            "projectName": "LaibraryJavaProject_ad6c5459"
+        },
+        {
+            "type": "java",
+            "name": "Launch Laibrarian",
+            "request": "launch",
+            "mainClass": "Laibrarian",
+            "projectName": "LaibraryJavaProject_ad6c5459"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemberReacord",
+            "request": "launch",
+            "mainClass": "MemberReacord",
+            "projectName": "LaibraryJavaProject_ad6c5459"
+        },
+        {
+            "type": "java",
+            "name": "Launch Transactions",
+            "request": "launch",
+            "mainClass": "Transactions",
+            "projectName": "LaibraryJavaProject_ad6c5459"
+        }
+    ]
+}
